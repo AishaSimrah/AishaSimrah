@@ -7,8 +7,10 @@ I build practical projects using Python, Machine Learning, Web Technologies & Fl
 🔭 Featured Projects
 
 - 🤟 Sign Language Translation — AI-powered sign-to-text system
-- 🩺 AI Cancer Detection — ML-based classification project
+- 🩺 Personal Well-being OS - my daily rituals, tracked and tuned.
 
 🌱 Currently exploring Generative AI, Computer Vision & App Development.
 
-📫 Always learning. Always building. 🚀
+📫 Email: your.email@example.com
+
+📖Always learning. Always building. 🚀
