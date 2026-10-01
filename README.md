@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hi, I'm Aisha
 
-<!--
-**AishaSimrah/AishaSimrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE (AI & ML) Student | 🤖 AI/ML Enthusiast | 💻 Developer
 
-Here are some ideas to get you started:
+I build practical projects using Python, Machine Learning, Web Technologies & Flutter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Featured Projects
+
+- 🤟 Sign Language Translation — AI-powered sign-to-text system
+- 🩺 AI Cancer Detection — ML-based classification project
+
+🌱 Currently exploring Generative AI, Computer Vision & App Development.
+
+📫 Always learning. Always building. 🚀
