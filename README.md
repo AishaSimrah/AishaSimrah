@@ -6,8 +6,9 @@ I build practical projects using Python, Machine Learning, Web Technologies & Fl
 
 🔭 Featured Projects
 
+-🎬 Manga Rigger — A creative website that transforms manga panels into animations.
 - 🤟 Sign Language Translation — AI-powered sign-to-text system
-- 🩺 Personal Well-being OS - my daily rituals, tracked and tuned.
+- 🩺 Personal Well-being OS - my daily rituals, tracked and tuned
 
 🌱 Currently exploring Generative AI, Computer Vision & App Development.
 
