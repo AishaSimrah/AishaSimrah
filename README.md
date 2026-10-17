@@ -11,6 +11,6 @@ I build practical projects using Python, Machine Learning, Web Technologies & Fl
 
 🌱 Currently exploring Generative AI, Computer Vision & App Development.
 
-📫 Email: your.email@example.com
+📫 Email: aishasimrah06@gmail.com
 
 📖Always learning. Always building. 🚀
